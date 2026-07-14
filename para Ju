@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para Ju</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ffb6d9 0%, #b6ffd9 100%);
+      font-family: 'Georgia', serif;
+      color: #333;
+      text-align: center;
+      padding: 40px 20px;
+      line-height: 2;
+    }
+    .container {
+      background: white;
+      max-width: 800px;
+      margin: auto;
+      padding: 60px;
+      border-radius: 30px;
+      box-shadow: 0 15px 50px rgba(0,0,0,0.15);
+    }
+    h1 {
+      color: #d63384;
+      font-size: 3em;
+      margin-bottom: 15px;
+    }
+    h2 {
+      color: #28a745;
+      font-size: 2.2em;
+      margin-top: 60px;
+      border-bottom: 3px dashed #ffb6d9;
+      padding-bottom: 15px;
+    }
+    p {
+      font-size: 1.5em;
+      text-align: justify;
+      margin: 25px 0;
+    }
+    .fotos {
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+      flex-wrap: wrap;
+      margin: 40px 0;
+    }
+    .fotos img {
+      width: 230px;
+      height: 230px;
+      object-fit: cover;
+      border-radius: 25px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+      border: 5px solid white;
+    }
+    .assinatura {
+      margin-top: 70px;
+      font-size: 1.7em;
+      color: #d63384;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Para a minha coisinha 🩷🩷</h1>
+    
+    <p>Oi Ju...</p>
+  
+    <p>Eu tô aqui tentando achar as palavras certas pra te falar tudo isso, mas tu me conhece né? Eu tento ser boa com as palavras kkkk Enfim então eu resolvi escrever do meu jeito meio bagunçado mas sempre sincero e de coração, do jeito que tu merece.</p>
+    
+    <p>Desde o dia 20/06 minha cabeça virou uma bagunça. Mas uma bagunça boa, sabe? É você em tudo. É eu acordar e lembrar de alguma coisa besta que tu falou ou é eu ver duas cores e lembrar de você é eu rir sozinha no meio da rua lembrando das nossas conversas.</p>
+    
+    <p>Eu queria fazer algo que fosse a nossa cara, Cheio de referência, cheio de nós. Porque se tem uma coisa que a gente tem é conexão, né coisinha?</p>
+
+    <h2>não teria como começar com outro né? us minsung 💚💗</h2>
+    <div class="fotos">
+      <img src="https://i.imgur.com/8QZ9k2L.jpg" alt="Lee Know e Han">
+    </div>
+    <p>Lee Know e Han. O caos e a calma,o gritão e o abraço como em sdm, é exatamente a gente atekkk Você chegou bem intensa na festa, bem extrovertida, dançando, falando pelos cotovelos, ... e eu fiquei só te olhando igual uma bobinha, hoje eu pego e penso "meu deus como eu amo essa menina". acredito q seja igual o Lee Know olha pro Han, Com paciência, com carinho, com vontade de guardar no bolso. Você é minha bagunça favorita e eu espero ser seu lugar seguro. A gente se equilibra até (vc as vezes é o han que eu preciso, e as vezes é o Minho que preciso) Quando uma cai, a outra segura. Quando uma grita, a outra acalma. Minsung é isso e nós somos minsung, nao é?</p>
+    
+    <h2>Jake e Amy 👮‍♀️👮</h2>
+    <div class="fotos">
+      <img src="https://i.imgur.com/4mT2pLx.jpg" alt="Jake Peralta e Amy Santiago">
+    </div>
+    <p>Jake e Amy de Brooklyn 99, competir por qualquer besteira, Fazer as pazes em 2 segundos, Ser parceiro de crime em tudo, É a gente demais kkkk A gente nao chegou a brigar serio (gracas a Deus) but, a gente se provocakkkk, a gente ri... mas no final a gente só quer estar juntas, ne?. quero q vc seja minha parceira, Pra rir, pra chorar, pra ver série, pra falar mal da vida. Eu quero ser seu Jake e você ser minha Amy pro resto da vida. Brigar, amar, e repetir.</p>
+    
+    <h2> CLARO que teria as nossas Jenlisa 🖤💗</h2>
+    <div class="fotos">
+      <img src="https://i.imgur.com/9XwQz1V.jpg" alt="Jennie e Lisa">
+    </diz
+    <p>Jennie e Lisa, um algo mais que amizade, Confiança que não precisa de explicação, É assim que eu me sinto com você, sabia? Com elas duas é assim, uma completa a outra, uma puxa a outra pra cima, uma entende a outra só com o olhar. E é isso que eu quero com você, coisinha. Quero ser seu porto seguro, quero que você saiba que pode contar comigo pra tudo! pra rir de meme, pra desabafar quando o mundo cair, pra comemorar cada coisinha boba. Você é minha Jennie e eu espero ser sua Lisa. Duas metades que fazem muito sentido juntas.</p>
+    
+    <p>Eu não sei o que o futuro guarda pra gente, e sinceramente? Tenho um pouco de medo, mas tô com mais vontade ainda vontade de tentar, vontade de te escolher todo dia, vontade de construir algo nosso, do nosso jeitinho.</p>
+    
+    <p>Eu gosto de você, Ju. Gosto muito. De um jeito que dá frio na barriga e dá vontade de sorrir ao mesmo tempo, de um jeito grande, maturo, mas ainda com a nossa essência de crianças bobas.</p>
+    
+    <p class="assinatura">Te amo, coisinha. Com tudo que eu sou, de dedinhokkk</p>
+  </div>
+</body>
+</html>
